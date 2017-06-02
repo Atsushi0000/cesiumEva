@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>第9使徒2.kml</name>
+	<Style id="failed2030">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed202">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed511">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed203</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed190</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed59</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed361</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed206">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed515">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed206</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed195</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed203">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed513">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed193</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed194">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="failed200">
+		<IconStyle>
+			<scale>4</scale>
+			<Icon>
+				<href>../エフェク２.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed195">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed59">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed204">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed191">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed205">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed510">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed202</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed194</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed190">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed192">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed514">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed205</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed191</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed19">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed512">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed204</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed517">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed2030</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed192</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed361">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed193">
+		<IconStyle>
+			<scale>4</scale>
+			<Icon>
+				<href>../エフェク２.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+
+	<Folder>
+		<Placemark>
+			<name>第9使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「ゼルエル-zeruel」
+最強の使徒。ラミエルが突破に十数時間かかったジオフロント上部の１８の特殊装甲を瞬時に溶解させるほど。弍号機が迎撃に当たるが敗北、その後初号機の覚醒により殲滅、捕食される。これにより初号機は永久機関であるS2機関を手に入れる。<img src="http://www.glory820.com/wp-content/uploads/37646ab417db150e4fa06efe28b74df5-300x225.jpg"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>139.0018851244804</longitude>
+				<latitude>35.24642263954562</latitude>
+				<altitude>0</altitude>
+				<heading>-8.654984231429763</heading>
+				<tilt>6.32503965758314</tilt>
+				<range>4025.409604380194</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2016-05-13T18:30:59Z</begin>
+				<end>2016-05-13T19:30:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed517</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.9924344250879,35.25201631962618,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第9使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「ゼルエル-zeruel」
+最強の使徒。ラミエルが突破に十数時間かかったジオフロント上部の１８の特殊装甲を瞬時に溶解させるほど。弍号機が迎撃に当たるが敗北、その後初号機の覚醒により殲滅、捕食される。これにより初号機は永久機関であるS2機関を手に入れる。<img src="http://www.glory820.com/wp-content/uploads/37646ab417db150e4fa06efe28b74df5-300x225.jpg"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>139.0013659532034</longitude>
+				<latitude>35.24608073107868</latitude>
+				<altitude>0</altitude>
+				<heading>-8.655137475313428</heading>
+				<tilt>23.38431443738482</tilt>
+				<range>3544.490146569673</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2016-05-13T19:30:59Z</begin>
+				<end>2016-05-13T20:30:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed511</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.988334615378,35.24714444263938,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第9使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「ゼルエル-zeruel」
+最強の使徒。ラミエルが突破に十数時間かかったジオフロント上部の１８の特殊装甲を瞬時に溶解させるほど。弍号機が迎撃に当たるが敗北、その後初号機の覚醒により殲滅、捕食される。これにより初号機は永久機関であるS2機関を手に入れる。<img src="http://www.glory820.com/wp-content/uploads/37646ab417db150e4fa06efe28b74df5-300x225.jpg"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>139.0025747934062</longitude>
+				<latitude>35.23705124860186</latitude>
+				<altitude>0</altitude>
+				<heading>-25.9733085179507</heading>
+				<tilt>24.08291396768436</tilt>
+				<range>4903.479163182662</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2016-05-13T20:30:59Z</begin>
+				<end>2016-05-21T21:30:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed513</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.9882289417735,35.25391794557115,400</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>第5使徒.kml</name>
+	<Style id="failed310">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../Ⅸ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed150">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed4000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed220</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed210">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅸ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed360">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../Ⅸ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed55">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed310</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed2100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed220">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅸ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed60">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅸ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed29">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed420</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed210</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed410">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅸ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_エフェク２00">
+		<IconStyle>
+			<scale>4</scale>
+			<Icon>
+				<href>../エフェク２.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed400">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../Ⅸ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_エフェク２00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_エフェク２00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_エフェク２0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed2100">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>../Ⅸ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed420">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅸ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed380">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed360</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed400</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed160">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed410</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed60</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed4000">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅸ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_エフェク２0">
+		<IconStyle>
+			<scale>4.72727</scale>
+			<Icon>
+				<href>../エフェク２.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>第5使徒</name>
+		<open>1</open>
+		<Placemark>
+			<name>第5使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「ラミエル-ramiel」
+青い正八面体の形状を持つ使徒。零号機と初号機による長距離陽電子砲による狙撃作戦「ヤシマ作戦」により迎撃される。<img src="http://blog-imgs-47.fc2.com/f/v/d/fvdamero/2011101301252057f.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>139.2591814805007</longitude>
+				<latitude>35.16372826094783</latitude>
+				<altitude>0</altitude>
+				<heading>0.2116392175429215</heading>
+				<tilt>0.5005720639699015</tilt>
+				<range>74476.62285578946</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-08-16T12:30:59Z</begin>
+				<end>2015-08-16T13:30:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed380</styleUrl>
+			<Point>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0696955932781,35.16402221910146,3600</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第5使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「ラミエル-ramiel」
+青い正八面体の形状を持つ使徒。零号機と初号機による長距離陽電子砲による狙撃作戦「ヤシマ作戦」により迎撃される。<img src="http://blog-imgs-47.fc2.com/f/v/d/fvdamero/2011101301252057f.jpg"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>139.0828929323698</longitude>
+				<latitude>35.2032584813735</latitude>
+				<altitude>0</altitude>
+				<heading>0.1129866154553202</heading>
+				<tilt>9.176302466002387</tilt>
+				<range>22027.89602062689</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-08-16T13:30:59Z</begin>
+				<end>2015-08-16T14:30:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed150</styleUrl>
+			<Point>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0402411411614,35.18002217460786,2300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第5使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「ラミエル-ramiel」
+青い正八面体の形状を持つ使徒。零号機と初号機による長距離陽電子砲による狙撃作戦「ヤシマ作戦」により迎撃される。<img src="http://blog-imgs-47.fc2.com/f/v/d/fvdamero/2011101301252057f.jpg"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>139.0828929323698</longitude>
+				<latitude>35.2032584813735</latitude>
+				<altitude>0</altitude>
+				<heading>0.1129866154553202</heading>
+				<tilt>9.176302466002387</tilt>
+				<range>22027.89602062689</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-08-16T14:30:59Z</begin>
+				<end>2015-08-16T15:30:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed160</styleUrl>
+			<Point>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0127176141809,35.20057078437282,800</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第5使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「ラミエル-ramiel」
+青い正八面体の形状を持つ使徒。零号機と初号機による長距離陽電子砲による狙撃作戦「ヤシマ作戦」により迎撃される。<img src="http://blog-imgs-47.fc2.com/f/v/d/fvdamero/2011101301252057f.jpg"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>139.0828929323698</longitude>
+				<latitude>35.2032584813735</latitude>
+				<altitude>0</altitude>
+				<heading>0.1129866154553202</heading>
+				<tilt>9.176302466002387</tilt>
+				<range>22027.89602062689</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-08-16T15:30:59Z</begin>
+				<end>2015-08-16T16:30:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed29</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.9938677784964,35.23260309454859,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第5使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「ラミエル-ramiel」
+青い正八面体の形状を持つ使徒。零号機と初号機による長距離陽電子砲による狙撃作戦「ヤシマ作戦」により迎撃される。<img src="http://blog-imgs-47.fc2.com/f/v/d/fvdamero/2011101301252057f.jpg"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>138.9960745192849</longitude>
+				<latitude>35.25335560233732</latitude>
+				<altitude>0</altitude>
+				<heading>0.07982653268094496</heading>
+				<tilt>30.86814263574566</tilt>
+				<range>794.8327166250842</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-08-16T16:30:59Z</begin>
+				<end>2015-08-17</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed55</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.9929059588784,35.25455073390189,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第5使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「ラミエル-ramiel」
+青い正八面体の形状を持つ使徒。零号機と初号機による長距離陽電子砲による狙撃作戦「ヤシマ作戦」により迎撃される。<img src="http://blog-imgs-47.fc2.com/f/v/d/fvdamero/2011101301252057f.jpg"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>138.9960745195529</longitude>
+				<latitude>35.25335560394655</latitude>
+				<altitude>0</altitude>
+				<heading>0.07982653319812273</heading>
+				<tilt>30.8675260967355</tilt>
+				<range>794.8328194967823</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-08-17T00:00:59Z</begin>
+				<end>2015-08-24T01:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#msn_エフェク２00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.9929251866048,35.25445666051179,300</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>第8使徒.kml</name>
+	<Style id="failed271">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅶ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed440">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed516">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅶ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed24">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅶ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed80">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅶ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed26">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅶ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed46</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed516</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed46">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅶ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed13">
+		<IconStyle>
+			<scale>4</scale>
+			<Icon>
+				<href>../エフェク２.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed61">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅶ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed171">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅶ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed311">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed80</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed61</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed56">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed58">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed28</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed15">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅶ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed112">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅶ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed28">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅶ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed112</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed271</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed52">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed171</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed26</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed40">
+		<IconStyle>
+			<scale>4</scale>
+			<Icon>
+				<href>../エフェク２.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed17">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅶ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>第8使徒</name>
+		<open>1</open>
+		<Placemark>
+			<name>第8使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「バルディエル-bardiel」
+粘菌状の使徒。長野県松代での起動実験のためNERVアメリカ支部から3号機輸送中にエントリープラグに侵入侵食し、起動実験中に覚醒し搭乗者もろとも支配下に置き暴れるがダミープラグを使用した初号機により撃破される。漫画版において搭乗者であった「鈴原トウジ」は死亡。
+<img src="https://i.ytimg.com/vi/0m2rld5mxyE/hqdefault.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>138.2069784168424</longitude>
+				<latitude>36.57403034252229</latitude>
+				<altitude>0</altitude>
+				<heading>-19.34858824637581</heading>
+				<tilt>32.50631325511025</tilt>
+				<range>2234.142091349858</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2016-05-08T10:00:59Z</begin>
+				<end>2016-05-08T13:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed52</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.2021791089404,36.56859329191737,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第8使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「バルディエル-bardiel」
+粘菌状の使徒。長野県松代での起動実験のためNERVアメリカ支部から3号機輸送中にエントリープラグに侵入侵食し、起動実験中に覚醒し搭乗者もろとも支配下に置き暴れるがダミープラグを使用した初号機により撃破される。漫画版において搭乗者であった「鈴原トウジ」は死亡。
+<img src="https://i.ytimg.com/vi/0m2rld5mxyE/hqdefault.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>138.4174791905136</longitude>
+				<latitude>36.43460014841657</latitude>
+				<altitude>0</altitude>
+				<heading>-19.1996220782733</heading>
+				<tilt>14.38299924754456</tilt>
+				<range>86594.63427526945</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2016-05-08T14:00:59Z</begin>
+				<end>2016-05-08T15:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed311</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.1518742668585,36.47061888894375,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第8使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「バルディエル-bardiel」
+粘菌状の使徒。長野県松代での起動実験のためNERVアメリカ支部から3号機輸送中にエントリープラグに侵入侵食し、起動実験中に覚醒し搭乗者もろとも支配下に置き暴れるがダミープラグを使用した初号機により撃破される。漫画版において搭乗者であった「鈴原トウジ」は死亡。
+<img src="https://i.ytimg.com/vi/0m2rld5mxyE/hqdefault.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>138.2756582908089</longitude>
+				<latitude>36.29733837023585</latitude>
+				<altitude>0</altitude>
+				<heading>-19.3202923086886</heading>
+				<tilt>9.786003866861348</tilt>
+				<range>73706.53478442912</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2016-05-08T15:00:59Z</begin>
+				<end>2016-05-08T16:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.2938328110653,36.38473907862732,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第8使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「バルディエル-bardiel」
+粘菌状の使徒。長野県松代での起動実験のためNERVアメリカ支部から3号機輸送中にエントリープラグに侵入侵食し、起動実験中に覚醒し搭乗者もろとも支配下に置き暴れるがダミープラグを使用した初号機により撃破される。漫画版において搭乗者であった「鈴原トウジ」は死亡。
+<img src="https://i.ytimg.com/vi/0m2rld5mxyE/hqdefault.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>138.2756584670189</longitude>
+				<latitude>36.29733830921382</latitude>
+				<altitude>0</altitude>
+				<heading>-19.32029154440744</heading>
+				<tilt>9.786882930317923</tilt>
+				<range>73706.5613850223</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2016-05-08T16:00:59Z</begin>
+				<end>2016-05-08T17:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed100</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.4179415005077,36.30487678321769,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第8使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「バルディエル-bardiel」
+粘菌状の使徒。長野県松代での起動実験のためNERVアメリカ支部から3号機輸送中にエントリープラグに侵入侵食し、起動実験中に覚醒し搭乗者もろとも支配下に置き暴れるがダミープラグを使用した初号機により撃破される。漫画版において搭乗者であった「鈴原トウジ」は死亡。
+<img src="https://i.ytimg.com/vi/0m2rld5mxyE/hqdefault.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>138.4398065789964</longitude>
+				<latitude>36.15284892567929</latitude>
+				<altitude>0</altitude>
+				<heading>-19.22318945119712</heading>
+				<tilt>9.73466276800826</tilt>
+				<range>37959.00804649843</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2016-05-08T17:00:59Z</begin>
+				<end>2016-05-08T18:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed56</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.4751762466539,36.1294804534086,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第8使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「バルディエル-bardiel」
+粘菌状の使徒。長野県松代での起動実験のためNERVアメリカ支部から3号機輸送中にエントリープラグに侵入侵食し、起動実験中に覚醒し搭乗者もろとも支配下に置き暴れるがダミープラグを使用した初号機により撃破される。漫画版において搭乗者であった「鈴原トウジ」は死亡。
+<img src="https://i.ytimg.com/vi/0m2rld5mxyE/hqdefault.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>138.4685604968262</longitude>
+				<latitude>36.02313430440477</latitude>
+				<altitude>0</altitude>
+				<heading>-19.20600906490895</heading>
+				<tilt>9.725505763793958</tilt>
+				<range>31916.92351348721</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2016-05-08T18:00:59Z</begin>
+				<end>2016-05-08T19:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed58</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.4670857617243,36.02333023739923,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第8使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「バルディエル-bardiel」
+粘菌状の使徒。長野県松代での起動実験のためNERVアメリカ支部から3号機輸送中にエントリープラグに侵入侵食し、起動実験中に覚醒し搭乗者もろとも支配下に置き暴れるがダミープラグを使用した初号機により撃破される。漫画版において搭乗者であった「鈴原トウジ」は死亡。
+<img src="https://i.ytimg.com/vi/0m2rld5mxyE/hqdefault.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>138.4721512496612</longitude>
+				<latitude>35.94608417262246</latitude>
+				<altitude>0</altitude>
+				<heading>-19.17695727706366</heading>
+				<tilt>33.45088455626102</tilt>
+				<range>425.9683076564376</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2016-05-08T19:00:59Z</begin>
+				<end>2016-05-17T20:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed440</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.4705193810727,35.94754154486497,300</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>サードインパクト[人類補完計画].kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>15</scale>
+			<Icon>
+				<href>../補完.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>17.7273</scale>
+			<Icon>
+				<href>../補完.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>サードインパクト[人類補完計画]</name>
+		<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">使徒がNERV地下のリリスと接触する事で起こる同等の現象。その真相は始祖（アダムやリリス）により展開されるアンチATフィールドにより個体生命体のATフィールドが消失し、肉体はLCLへと還元され、魂が解放される、生態系のリセットのようなもの。人類補完計画を目論むゼーレはこれを使徒の手ではなく、条件を満たした人の手で起こすことで人類を完全な単体へと人工進化させようとしていた。漫画版においては碇シンジの「他人と触れあいたい」という選択により新たな世界が再構築されたと考えられる。<img src="http://livedoor.blogimg.jp/yurukuyaru/imgs/3/6/3613df9d.jpg"></div>]]></description>
+		<LookAt>
+			<gx:TimeSpan>
+				<begin>2016-12-30T15:00:59Z</begin>
+				<end>2016-12-31T12:59:00Z</end>
+			</gx:TimeSpan>
+			<longitude>138.9923741841902</longitude>
+			<latitude>35.25550663856094</latitude>
+			<altitude>0</altitude>
+			<heading>0.1700202077110231</heading>
+			<tilt>24.89146995219487</tilt>
+			<range>4878.901793430955</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<gx:TimeSpan>
+			<begin>2016-12-30T15:00:59Z</begin>
+			<end>2016-12-31T12:59:00Z</end>
+		</gx:TimeSpan>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>138.9923741841902,35.25550663856095,600000</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

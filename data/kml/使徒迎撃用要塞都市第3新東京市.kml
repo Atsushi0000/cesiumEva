@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>使徒迎撃用要塞都市第3新東京市</name>
+	<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">表向きは「第二次遷都計画に基づき、将来の首都として建設されている都市」という名目の元に建設されているが、実態はNERV本部を狙って襲来する使徒の迎撃のための対使徒迎撃要塞都市。芦ノ湖北岸に位置する。偽装されたミサイルサイロやEVAの武器、電源コードを収納した兵装ビルなどがEVAの戦闘をサポートする。地下にはジオフロントが広がっており、高層ビルを収容することが可能<img src="https://pbs.twimg.com/media/Cl8TSI2VYAAUJpM.jpg"></div>]]></description>
+
+	<color>f2ffffff</color>
+	<Icon>
+		<href>../dai3shinntoukyoushi-2.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>35.28306234861545</north>
+		<south>35.22632518128208</south>
+		<east>139.0277679694711</east>
+		<west>138.9582631826105</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

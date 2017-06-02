@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>第6使徒.kml</name>
+	<Style id="sn_エフェク２1">
+		<IconStyle>
+			<scale>4</scale>
+			<Icon>
+				<href>../エフェク２.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed01">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅴ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed37">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅴ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_エフェク２1">
+		<IconStyle>
+			<scale>4.72727</scale>
+			<Icon>
+				<href>../エフェク２.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_エフェク２0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_エフェク２1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_エフェク２1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed53">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed37</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>第6使徒</name>
+		<open>1</open>
+		<Placemark>
+			<name>第6使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「ガギエル-gaghiel」
+深海魚のような使徒。漫画版では輸送中の弍号機によりわずか３８秒で迎撃される。なので第３新東京市に侵攻することはなかった。<img src="http://eva-mania.info/_img/apostle_6.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>139.4116019529108</longitude>
+				<latitude>34.97684258116416</latitude>
+				<altitude>0</altitude>
+				<heading>0.8315704542967165</heading>
+				<tilt>0</tilt>
+				<range>150704.8349781642</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-09-19T11:00:59Z</begin>
+				<end>2015-09-19T15:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed53</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.4981405567556,35.03825002264853,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第6使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「ガギエル-gaghiel」
+深海魚のような使徒。漫画版では輸送中の弍号機によりわずか３８秒で迎撃される。なので第３新東京市に侵攻することはなかった。<img src="http://eva-mania.info/_img/apostle_6.jpg"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>139.281533290719</longitude>
+				<latitude>34.9588474640237</latitude>
+				<altitude>0</altitude>
+				<heading>0.7984995486083337</heading>
+				<tilt>0</tilt>
+				<range>61683.49443061113</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-09-19T15:00:59Z</begin>
+				<end>2015-09-28T16:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#msn_エフェク２0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.4753328100588,35.06295666587643,300</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

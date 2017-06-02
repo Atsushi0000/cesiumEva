@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>ジオフロント</name>
+	<BalloonStyle>
+	<bgColor>#2ccc00</bgColor>
+ </BalloonStyle>
+	<description ><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">第3新東京市の地下にある直径約13.75kmの球状の空洞、しかしその89％は土砂で埋まっている。さらにこの地下中心部にはセントラルドグマがあり、その先の最深部にはターミナルドグマがある。
+このジオフロントの正体は太古に落ちてきた「黒き月」であり第2使徒であるリリスの卵とも言われている。
+<img src="https://s-media-cache-ak0.pinimg.com/736x/3f/62/bc/3f62bccb5a37994cb0ed24f54786aa2d.jpg"></div>]]></description>
+	<gx:balloonVisibility>1</gx:balloonVisibility>
+	<Icon>
+		<href>../jiofront.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>35.2933760974545</north>
+		<south>35.20865970265567</south>
+		<east>139.0338056995612</east>
+		<west>138.9523653367378</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>

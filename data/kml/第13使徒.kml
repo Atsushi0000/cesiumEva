@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>第13使徒.kml</name>
+	<StyleMap id="msn_Ⅺ 09">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Ⅺ 02">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed33</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Ⅺ 06">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed44</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed45</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed18">
+		<IconStyle>
+			<Icon>
+				<href>../XIII .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_Ⅺ 08">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed63</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed42">
+		<IconStyle>
+			<Icon>
+				<href>../XIII .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="failed33">
+		<IconStyle>
+			<Icon>
+				<href>../XIII .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed45">
+		<IconStyle>
+			<Icon>
+				<href>../XIII .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed44">
+		<IconStyle>
+			<Icon>
+				<href>../XIII .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_Ⅺ 04">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed42</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed0">
+		<IconStyle>
+			<Icon>
+				<href>../XIII .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed11">
+		<IconStyle>
+			<Icon>
+				<href>../XIII .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="failed22">
+		<IconStyle>
+			<Icon>
+				<href>../XIII .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed63">
+		<IconStyle>
+			<Icon>
+				<href>/../XIII .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="failed8">
+		<IconStyle>
+			<Icon>
+				<href>../XIII .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>第13使徒</name>
+		<Placemark>
+			<name>第13使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「リリン-lilin」
+人類。リリスから生まれた唯一の使徒、群れをなして存在する。<img src="http://blog-imgs-52.fc2.com/e/v/a/evaspell/201401022141243f2.png"></div>]]></description>			<LookAt>
+
+				<longitude>138.9892571622353</longitude>
+				<latitude>35.26701312591245</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01192842822770437</heading>
+				<tilt>22.4893617104147</tilt>
+				<range>16403.55742498188</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2016-12-30T11:00:59Z</begin>
+				<end>2016-12-30T12:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#msn_Ⅺ 04</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0281180156736,35.24340362855538,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第13使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「リリン-lilin」
+人類。リリスから生まれた唯一の使徒、群れをなして存在する。<img src="http://blog-imgs-52.fc2.com/e/v/a/evaspell/201401022141243f2.png"></div>]]></description>
+			<LookAt>
+
+				<longitude>138.9892572225678</longitude>
+				<latitude>35.26701308905491</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0119282744230675</heading>
+				<tilt>22.48898561317327</tilt>
+				<range>16403.55727745766</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2016-12-30T11:00:59Z</begin>
+				<end>2016-12-30T12:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#msn_Ⅺ 09</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.9686248498647,35.27693676649239,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第13使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「リリン-lilin」
+人類。リリスから生まれた唯一の使徒、群れをなして存在する。<img src="http://blog-imgs-52.fc2.com/e/v/a/evaspell/201401022141243f2.png"></div>]]></description>
+			<LookAt>
+
+				<longitude>139.0010227778976</longitude>
+				<latitude>35.25798605844039</latitude>
+				<altitude>0</altitude>
+				<heading>-0.00693461118761473</heading>
+				<tilt>32.63917709805284</tilt>
+				<range>5129.670201382432</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2016-12-30T12:00:59Z</begin>
+				<end>2016-12-30T13:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#msn_Ⅺ 02</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0038680417994,35.24941566802426,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第13使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「リリン-lilin」
+人類。リリスから生まれた唯一の使徒、群れをなして存在する。<img src="http://blog-imgs-52.fc2.com/e/v/a/evaspell/201401022141243f2.png"></div>]]></description>
+			<LookAt>
+				<longitude>139.0010227802855</longitude>
+				<latitude>35.25798606700604</latitude>
+				<altitude>0</altitude>
+				<heading>-0.006934606763316829</heading>
+				<tilt>32.63840162784427</tilt>
+				<range>5129.671508775757</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2016-12-30T12:00:59Z</begin>
+				<end>2016-12-30T13:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#msn_Ⅺ 08</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.9831846656778,35.26275589946984,150</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

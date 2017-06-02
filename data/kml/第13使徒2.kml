@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>第13使徒.kml</name>
+	<StyleMap id="msn_Ⅺ 09">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Ⅺ 02">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed33</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Ⅺ 06">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed44</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed45</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed18">
+		<IconStyle>
+			<Icon>
+				<href>../XIII .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_Ⅺ 08">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed63</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed42">
+		<IconStyle>
+			<Icon>
+				<href>../XIII .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="failed33">
+		<IconStyle>
+			<Icon>
+				<href>../XIII .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed45">
+		<IconStyle>
+			<Icon>
+				<href>../XIII .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed44">
+		<IconStyle>
+			<Icon>
+				<href>../XIII .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_Ⅺ 04">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed42</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed0">
+		<IconStyle>
+			<Icon>
+				<href>../XIII .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed11">
+		<IconStyle>
+			<Icon>
+				<href>../XIII .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="failed22">
+		<IconStyle>
+			<Icon>
+				<href>../XIII .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed63">
+		<IconStyle>
+			<Icon>
+				<href>/../XIII .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="failed8">
+		<IconStyle>
+			<Icon>
+				<href>../XIII .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>第13使徒</name>
+		<Placemark>
+			<name>第13使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「リリン-lilin」
+人類。リリスから生まれた唯一の使徒、群れをなして存在する。<img src="http://blog-imgs-52.fc2.com/e/v/a/evaspell/201401022141243f2.png"></div>]]></description>
+			<LookAt>
+
+				<longitude>139.0010227813412</longitude>
+				<latitude>35.25798607101682</latitude>
+				<altitude>0</altitude>
+				<heading>-0.006934604807113475</heading>
+				<tilt>32.63762621371537</tilt>
+				<range>5129.672504588457</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+
+			<gx:TimeSpan>
+				<begin>2016-12-30T13:00:59Z</begin>
+				<end>2016-12-30T23:59:00Z</end>
+			</gx:TimeSpan>
+
+			<styleUrl>#msn_Ⅺ 06</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.9916712296315,35.25485503661086,150</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

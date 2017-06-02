@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>エヴァシリーズ.kml</name>
+	<StyleMap id="msn_Ⅺ 01">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed34</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_Ⅺ 03">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed64</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed4">
+		<IconStyle>
+			<Icon>
+				<href>/../s2.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="failed3">
+		<IconStyle>
+			<Icon>
+				<href>/../s2.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed2">
+		<IconStyle>
+			<Icon>
+				<href>/../s2.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed51">
+		<IconStyle>
+			<Icon>
+				<href>/../s2.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Ⅺ 0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed51</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed64">
+		<IconStyle>
+			<Icon>
+				<href>/../s2.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed34">
+		<IconStyle>
+			<Icon>
+				<href>/../s2.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>エヴァシリーズ</name>
+		<open>1</open>
+		<name>エヴァシリーズ量産機</name>
+		<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">アダムより製作された９体の量産機。S2機関を搭載。初号機を依り代としてサードインパクトを誘発させ、アンチATフィールドを展開させ地球上の人類全てをLCLへと還元させた。
+			<img src="http://i2.ruliweb.com/img/16/07/17/155f8d6f98946c91a.jpg"></div>]]></description>
+		<LookAt>
+
+			<longitude>138.9979497419788</longitude>
+			<latitude>35.26247718747771</latitude>
+			<altitude>0</altitude>
+			<heading>-0.007865295876234184</heading>
+			<tilt>38.68053970834499</tilt>
+			<range>10514.15431651833</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<gx:TimeSpan>
+			<begin>2016-12-30T15:00:59Z</begin>
+			<end>2016-12-30T16:00:00Z</end>
+		</gx:TimeSpan>
+		<styleUrl>#msn_Ⅺ 03</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>138.9916326548842,35.25550619530455,150</coordinates>
+		</Point>
+	</Placemark>
+	</Folder>
+</Document>
+</kml>

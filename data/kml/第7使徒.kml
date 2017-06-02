@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>第7使徒.kml</name>
+	<Style id="failed450">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅵ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed57">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed54</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed141">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed800</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed201">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed331</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed401">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅵ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed16">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅵ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed340">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅵ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed50">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅵ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed180">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed450</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed1410">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅵ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed9">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅵ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed00">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅵ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed411">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed1410</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed54">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅵ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed381">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅵ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_エフェク２1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_エフェク２</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_エフェク２20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed470">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅵ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed49">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed401</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed23">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅵ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed331">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅵ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed20">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅵ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed800">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅵ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed32">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed470</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed1910</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed21">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅵ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed7">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅵ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed35">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed381</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed48">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed340</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_エフェク２">
+		<IconStyle>
+			<scale>4</scale>
+			<Icon>
+				<href>../エフェク２.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_エフェク２20">
+		<IconStyle>
+			<scale>4.72727</scale>
+			<Icon>
+				<href>../エフェク２.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="failed1910">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅵ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>第7使徒</name>
+		<open>1</open>
+		<Placemark>
+			<name>第7使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「イスラフェル-israfel」
+当初は一体で襲来したが同型の二体に分裂する能力を持っていた。初戦は初号機と弍号機のコンビネーションが合わず撤退したが、５日間の特訓の末、迎撃に成功する。
+<img src="http://blog-imgs-59.fc2.com/e/v/a/evaspell/20080204001057.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>136.7740177204986</longitude>
+				<latitude>34.31805167825144</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6514008202957509</heading>
+				<tilt>0</tilt>
+				<range>453953.8626152517</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-10-07T11:00:59Z</begin>
+				<end>2015-10-07T12:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed57</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>135.3254233377046,32.93411450865906,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第7使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「イスラフェル-israfel」
+当初は一体で襲来したが同型の二体に分裂する能力を持っていた。初戦は初号機と弍号機のコンビネーションが合わず撤退したが、５日間の特訓の末、迎撃に成功する。
+<img src="http://blog-imgs-59.fc2.com/e/v/a/evaspell/20080204001057.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>141.2491948572782</longitude>
+				<latitude>33.99797853008191</latitude>
+				<altitude>0</altitude>
+				<heading>1.87987013246585</heading>
+				<tilt>0</tilt>
+				<range>1167954.949289985</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-10-07T12:00:59Z</begin>
+				<end>2015-10-07T13:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed180</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>137.3548276622079,33.35742872070569,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第7使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「イスラフェル-israfel」
+当初は一体で襲来したが同型の二体に分裂する能力を持っていた。初戦は初号機と弍号機のコンビネーションが合わず撤退したが、５日間の特訓の末、迎撃に成功する。
+<img src="http://blog-imgs-59.fc2.com/e/v/a/evaspell/20080204001057.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>141.2491937980594</longitude>
+				<latitude>33.99797666169014</latitude>
+				<altitude>0</altitude>
+				<heading>1.879869540189248</heading>
+				<tilt>0</tilt>
+				<range>1168097.321891042</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-10-07T13:00:59Z</begin>
+				<end>2015-10-07T14:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed32</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.8388365519049,34.21474208525213,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第7使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「イスラフェル-israfel」
+当初は一体で襲来したが同型の二体に分裂する能力を持っていた。初戦は初号機と弍号機のコンビネーションが合わず撤退したが、５日間の特訓の末、迎撃に成功する。
+<img src="http://blog-imgs-59.fc2.com/e/v/a/evaspell/20080204001057.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>139.7587876441042</longitude>
+				<latitude>35.07798988774212</latitude>
+				<altitude>0</altitude>
+				<heading>1.034810347233375</heading>
+				<tilt>0</tilt>
+				<range>211326.7062822337</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-10-07T14:00:59Z</begin>
+				<end>2015-10-07T15:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed141</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.3978014519107,35.12862269425031,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第7使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「イスラフェル-israfel」
+当初は一体で襲来したが同型の二体に分裂する能力を持っていた。初戦は初号機と弍号機のコンビネーションが合わず撤退したが、５日間の特訓の末、迎撃に成功する。
+<img src="http://blog-imgs-59.fc2.com/e/v/a/evaspell/20080204001057.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>139.3189066105452</longitude>
+				<latitude>35.32552242145676</latitude>
+				<altitude>0</altitude>
+				<heading>0.8267781785711057</heading>
+				<tilt>11.46906080585536</tilt>
+				<range>40667.42099412862</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-10-07T16:00:59Z</begin>
+				<end>2015-10-12T11:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed201</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.3747041592669,35.28733234698322,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第7使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「イスラフェル-israfel」
+当初は一体で襲来したが同型の二体に分裂する能力を持っていた。初戦は初号機と弍号機のコンビネーションが合わず撤退したが、５日間の特訓の末、迎撃に成功する。
+<img src="http://blog-imgs-59.fc2.com/e/v/a/evaspell/20080204001057.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>139.3983625509224</longitude>
+				<latitude>35.33495911776458</latitude>
+				<altitude>0</altitude>
+				<heading>0.8964837360755429</heading>
+				<tilt>7.017900299447346</tilt>
+				<range>82286.3632636668</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-10-12T11:00:59Z</begin>
+				<end>2015-10-12T12:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed48</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.1415460382499,35.24948956036432,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第7使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「イスラフェル-israfel」
+当初は一体で襲来したが同型の二体に分裂する能力を持っていた。初戦は初号機と弍号機のコンビネーションが合わず撤退したが、５日間の特訓の末、迎撃に成功する。
+<img src="http://blog-imgs-59.fc2.com/e/v/a/evaspell/20080204001057.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>139.0622428240961</longitude>
+				<latitude>35.2516970551745</latitude>
+				<altitude>0</altitude>
+				<heading>0.04124651316744266</heading>
+				<tilt>30.1353853845296</tilt>
+				<range>7318.483290921179</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-10-12T12:00:59Z</begin>
+				<end>2015-10-12T13:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed49</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0732993064736,35.23850553243498,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第7使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「イスラフェル-israfel」
+当初は一体で襲来したが同型の二体に分裂する能力を持っていた。初戦は初号機と弍号機のコンビネーションが合わず撤退したが、５日間の特訓の末、迎撃に成功する。
+<img src="http://blog-imgs-59.fc2.com/e/v/a/evaspell/20080204001057.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>139.0601251648188</longitude>
+				<latitude>35.25167576795072</latitude>
+				<altitude>0</altitude>
+				<heading>0.04003963500568029</heading>
+				<tilt>32.07842774902512</tilt>
+				<range>5858.390235703335</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-10-12T13:00:59Z</begin>
+				<end>2015-10-12T14:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed411</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0522679695376,35.25301974422578,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第7使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「イスラフェル-israfel」
+当初は一体で襲来したが同型の二体に分裂する能力を持っていた。初戦は初号機と弍号機のコンビネーションが合わず撤退したが、５日間の特訓の末、迎撃に成功する。
+<img src="http://blog-imgs-59.fc2.com/e/v/a/evaspell/20080204001057.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>139.0601251309375</longitude>
+				<latitude>35.25163522648239</latitude>
+				<altitude>0</altitude>
+				<heading>0.04003961650820902</heading>
+				<tilt>32.07765775917598</tilt>
+				<range>5849.891508543254</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-10-12T14:00:59Z</begin>
+				<end>2015-10-12T15:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed35</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0298606211558,35.25981196081678,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第7使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「イスラフェル-israfel」
+当初は一体で襲来したが同型の二体に分裂する能力を持っていた。初戦は初号機と弍号機のコンビネーションが合わず撤退したが、５日間の特訓の末、迎撃に成功する。
+<img src="http://blog-imgs-59.fc2.com/e/v/a/evaspell/20080204001057.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>139.0229360750629</longitude>
+				<latitude>35.27843255883211</latitude>
+				<altitude>0</altitude>
+				<heading>0.009147412436005496</heading>
+				<tilt>44.98910693344556</tilt>
+				<range>6519.233089126845</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-10-12T15:00:59Z</begin>
+				<end>2015-10-21T16:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#msn_エフェク２1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.013227169132,35.26313946198248,300</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

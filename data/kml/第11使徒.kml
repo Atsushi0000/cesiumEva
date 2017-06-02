@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>第11使徒.kml</name>
+	<Style id="failed62">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅴ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed39">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅴ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="failed38">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅴ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed10">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅴ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_エフェク２">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_エフェク２0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_エフェク２2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed1">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅴ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="failed">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed27</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed47">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed39</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed27">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅴ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_エフェク２0">
+		<IconStyle>
+			<scale>4</scale>
+			<Icon>
+				<href>../エフェク２.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_エフェク２2">
+		<IconStyle>
+			<scale>4.72727</scale>
+			<Icon>
+				<href>../エフェク２.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_Ⅺ 00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed38</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed62</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>第11使徒</name>
+		<open>1</open>
+		<Placemark>
+			<name>第11使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「アルミサエル-almisael」
+プラスミドのようなDNAに類似した二重螺旋の円環構造を持つ、アラエルに続き人の心に迫った使徒。零号機を侵食しようとするが、ザロ号機の自爆により撃破。
+<img src="http://renote.jp/uploads/image/file/48800/9beb1c45327d816767cbe3602834df85.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>139.0317449210759</longitude>
+				<latitude>35.25228296671005</latitude>
+				<altitude>0</altitude>
+				<heading>0.001155354406789315</heading>
+				<tilt>58.78188793112793</tilt>
+				<range>2424.870847376961</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2016-07-28T11:00:59Z</begin>
+				<end>2016-07-28T12:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed47</styleUrl>
+			<Point>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0310174390621,35.24164483429435,1284</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第11使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「アルミサエル-almisael」
+プラスミドのようなDNAに類似した二重螺旋の円環構造を持つ、アラエルに続き人の心に迫った使徒。零号機を侵食しようとするが、ザロ号機の自爆により撃破。
+<img src="http://renote.jp/uploads/image/file/48800/9beb1c45327d816767cbe3602834df85.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>139.0315373059799</longitude>
+				<latitude>35.24099129819261</latitude>
+				<altitude>0</altitude>
+				<heading>0.5779587950609518</heading>
+				<tilt>0</tilt>
+				<range>976.1482135795378</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2016-07-28T12:00:59Z</begin>
+				<end>2016-07-28T13:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed</styleUrl>
+			<Point>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0306859002639,35.24145416565505,607</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第11使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「アルミサエル-almisael」
+プラスミドのようなDNAに類似した二重螺旋の円環構造を持つ、アラエルに続き人の心に迫った使徒。零号機を侵食しようとするが、ザロ号機の自爆により撃破。
+<img src="http://renote.jp/uploads/image/file/48800/9beb1c45327d816767cbe3602834df85.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>139.0321511003002</longitude>
+				<latitude>35.24019961347792</latitude>
+				<altitude>0</altitude>
+				<heading>2.478846885875724</heading>
+				<tilt>0</tilt>
+				<range>908.6001149208704</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2016-07-28T13:00:59Z</begin>
+				<end>2016-07-28T15:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#msn_Ⅺ 00</styleUrl>
+			<Point>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0302882078104,35.24099581118239,300</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第11使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「アルミサエル-almisael」
+プラスミドのようなDNAに類似した二重螺旋の円環構造を持つ、アラエルに続き人の心に迫った使徒。零号機を侵食しようとするが、ザロ号機の自爆により撃破。
+<img src="http://renote.jp/uploads/image/file/48800/9beb1c45327d816767cbe3602834df85.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>139.0321511002888</longitude>
+				<latitude>35.24019961270061</latitude>
+				<altitude>0</altitude>
+				<heading>2.478846885869115</heading>
+				<tilt>0</tilt>
+				<range>908.5997637424841</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2016-07-28T15:00:59Z</begin>
+				<end>2016-08-07T16:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#msn_エフェク２</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0300914214415,35.24105386216171,300</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

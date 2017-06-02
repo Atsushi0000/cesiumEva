@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>第2使徒.kml</name>
+	<StyleMap id="failed120">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed270</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed330</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed330">
+		<IconStyle>
+			<Icon>
+				<href>../lilith2.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed270">
+		<IconStyle>
+			<Icon>
+				<href>../lilith2.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Placemark>
+		<name>第2使徒</name>
+		<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「リリス-lilith」
+ターミナルドグマに磔にされている。物語中盤までは第1使徒「アダム」であると言われていたが渚カヲルによってリリスであったことが判明する。<img src="http://www.glory820.com/wp-content/uploads/img_583715_11024668_1-300x170.png"></div>]]></description>
+		<LookAt>
+			<longitude>138.9888245518804</longitude>
+			<latitude>35.25341538051187</latitude>
+			<altitude>0</altitude>
+			<heading>-0.02479987075912355</heading>
+			<tilt>41.86376113439493</tilt>
+			<range>1016.711086513469</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#failed120</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>138.9929025952315,35.25520779972803,150</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

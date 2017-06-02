@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>第4使徒.kml</name>
+	<StyleMap id="failed25">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed370</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed240</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed111">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed170</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed260</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed390">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅳ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed140">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅳ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed130">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed90</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed43</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed1000">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅳ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_エフェク２10">
+		<IconStyle>
+			<scale>4.72727</scale>
+			<Icon>
+				<href>../エフェク２.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed320">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅳ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_エフェク２2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_エフェク２01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_エフェク２10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed170">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅳ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed2000">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅳ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed90">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅳ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed30">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅳ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed260">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅳ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed240">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅳ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed1900">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅳ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed43">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅳ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed350">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed2000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed390</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed280">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed110">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅳ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed320</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed1900</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_エフェク２01">
+		<IconStyle>
+			<scale>4</scale>
+			<Icon>
+				<href>../エフェク２.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed1000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed140</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed370">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅳ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>第4使徒</name>
+		<open>1</open>
+		<Placemark>
+			<name>第4使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「シャムシェル-shamshel」
+初号機との戦闘により活動停止となる。コア以外は無傷であったためNERVによって使徒のサンプルとして回収された。<img src="http://i0.wp.com/livedoor.blogimg.jp/fx2channel/imgs/b/3/b3dd1dfb.png"></div>]]></description>
+			<LookAt>
+
+				<longitude>139.5409319996613</longitude>
+				<latitude>34.91571838024044</latitude>
+				<altitude>0</altitude>
+				<heading>-2.193776287203713</heading>
+				<tilt>13.86726599809646</tilt>
+				<range>69233.93593724107</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-05-28T12:29:59Z</begin>
+				<end>2015-05-28T13:30:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed000</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5337623669706,34.89192992557426,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第4使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「シャムシェル-shamshel」
+初号機との戦闘により活動停止となる。コア以外は無傷であったためNERVによって使徒のサンプルとして回収された。<img src="http://i0.wp.com/livedoor.blogimg.jp/fx2channel/imgs/b/3/b3dd1dfb.png"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>139.3657452045377</longitude>
+				<latitude>35.10595157891887</latitude>
+				<altitude>0</altitude>
+				<heading>5.660791923887552</heading>
+				<tilt>14.52209041078715</tilt>
+				<range>69159.49941243416</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-05-28T13:29:59Z</begin>
+				<end>2015-05-28T14:30:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed25</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.3693721433406,34.99866496133854,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第4使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「シャムシェル-shamshel」
+初号機との戦闘により活動停止となる。コア以外は無傷であったためNERVによって使徒のサンプルとして回収された。<img src="http://i0.wp.com/livedoor.blogimg.jp/fx2channel/imgs/b/3/b3dd1dfb.png"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>139.3657452045377</longitude>
+				<latitude>35.10595157891887</latitude>
+				<altitude>0</altitude>
+				<heading>5.660791923887552</heading>
+				<tilt>14.52209041078715</tilt>
+				<range>69159.49941243416</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-05-28T14:29:59Z</begin>
+				<end>2015-05-28T15:30:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed350</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.2228029534859,35.10983152085224,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第4使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「シャムシェル-shamshel」
+初号機との戦闘により活動停止となる。コア以外は無傷であったためNERVによって使徒のサンプルとして回収された。<img src="http://i0.wp.com/livedoor.blogimg.jp/fx2channel/imgs/b/3/b3dd1dfb.png"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>139.1104299727494</longitude>
+				<latitude>35.21717679815035</latitude>
+				<altitude>0</altitude>
+				<heading>0.1582441519323507</heading>
+				<tilt>65.18470358146611</tilt>
+				<range>12728.92927324403</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-05-28T15:29:59Z</begin>
+				<end>2015-05-28T16:30:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed31</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.1066618523692,35.19695669445351,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第4使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「シャムシェル-shamshel」
+初号機との戦闘により活動停止となる。コア以外は無傷であったためNERVによって使徒のサンプルとして回収された。<img src="http://i0.wp.com/livedoor.blogimg.jp/fx2channel/imgs/b/3/b3dd1dfb.png"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>139.0577517387335</longitude>
+				<latitude>35.24364396423424</latitude>
+				<altitude>0</altitude>
+				<heading>-1.369039836139388</heading>
+				<tilt>43.01622827406008</tilt>
+				<range>14773.39451882649</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-05-28T16:30:59Z</begin>
+				<end>2015-05-28T17:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed280</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0652448063858,35.22105227274717,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第4使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「シャムシェル-shamshel」
+初号機との戦闘により活動停止となる。コア以外は無傷であったためNERVによって使徒のサンプルとして回収された。<img src="http://i0.wp.com/livedoor.blogimg.jp/fx2channel/imgs/b/3/b3dd1dfb.png"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>139.0586995405427</longitude>
+				<latitude>35.23767728189042</latitude>
+				<altitude>0</altitude>
+				<heading>-1.369237618228634</heading>
+				<tilt>44.3499535104328</tilt>
+				<range>12752.54475564299</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-05-28T17:00:59Z</begin>
+				<end>2015-05-28T17:30:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed130</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.9967948459582,35.25212668652284,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第4使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「シャムシェル-shamshel」
+初号機との戦闘により活動停止となる。コア以外は無傷であったためNERVによって使徒のサンプルとして回収された。<img src="http://i0.wp.com/livedoor.blogimg.jp/fx2channel/imgs/b/3/b3dd1dfb.png"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>139.0298520425918</longitude>
+				<latitude>35.25827229967746</latitude>
+				<altitude>0</altitude>
+				<heading>-1.387449197001464</heading>
+				<tilt>43.65114232941001</tilt>
+				<range>9320.777767826668</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-05-28T17:30:59Z</begin>
+				<end>2015-05-28T18:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed111</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0272380403962,35.23706202275964,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第4使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「シャムシェル-shamshel」
+初号機との戦闘により活動停止となる。コア以外は無傷であったためNERVによって使徒のサンプルとして回収された。<img src="http://i0.wp.com/livedoor.blogimg.jp/fx2channel/imgs/b/3/b3dd1dfb.png"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>139.0539543971167</longitude>
+				<latitude>35.22882207195107</latitude>
+				<altitude>0</altitude>
+				<heading>4.643058016480628</heading>
+				<tilt>53.34311428448976</tilt>
+				<range>863.4654410935143</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-05-28T17:30:59Z</begin>
+				<end>2015-06-06T18:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#msn_エフェク２2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0532109495893,35.22805194477487,300</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

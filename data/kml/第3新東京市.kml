@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>第3新東京市.kml</name>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff75df3a</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>8ce3ff21</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff75df3a</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>8ce3ff21</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>第3新東京市</name>
+		<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">表向きは「第二次遷都計画に基づき、将来の首都として建設されている都市」という名目の元に建設されているが、実態はNERV本部を狙って襲来する使徒の迎撃のための対使徒迎撃要塞都市。芦ノ湖北岸に位置する。偽装されたミサイルサイロやEVAの武器、電源コードを収納した兵装ビルなどがEVAの戦闘をサポートする。地下にはジオフロントが広がっており、高層ビルを収容することが可能<img src="https://pbs.twimg.com/media/Cl8TSI2VYAAUJpM.jpg"></div>]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Polygon>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						138.9958406252583,35.23736934070462,94 138.9976307388893,35.23880515517039,94 138.998532579297,35.23792811545673,94 139.0002506949451,35.23873843831472,94 139.0015901168742,35.24180124886695,94 138.9998618169578,35.24210816727918,94 138.9972557113545,35.24066190043352,94 138.9961239432322,35.24093819014994,94 138.997968739983,35.24288839598987,94 138.9983666988828,35.24421240189697,94 138.9974087407631,35.24537091475483,94 138.9970694912543,35.24760899090913,94 138.9985777499879,35.24850797903348,94 139.0020979085667,35.25122383707306,94 139.0034036400673,35.24998000304341,94 139.0045870075351,35.25075673150781,94 139.0044115675531,35.25550466613283,94 139.0115588680062,35.26168464607743,94 139.0118844047444,35.2638696638333,94 139.0106747424257,35.26508772486758,94 139.011547803578,35.26639511679483,94 139.0082736331467,35.27051183860838,94 139.0067130407033,35.27039047079845,94 139.0016297428668,35.27318498553565,94 139.0014636817064,35.27378303644636,94 138.9977971629219,35.27473589433194,94 138.9966354218903,35.27205948530986,94 138.9858587460659,35.27102109031229,94 138.9845923830136,35.26932370653937,94 138.9860088475369,35.26680013957823,94 138.9846745780066,35.26428469167387,94 138.9822937609242,35.26468038100491,94 138.9776479102694,35.25880072544778,94 138.9755164249127,35.25791024109547,94 138.9766751856804,35.25327032577893,94 138.9773183379623,35.25144221607215,94 138.9802701015629,35.24801751665551,94 138.9816661993036,35.2449797981562,94 138.9834212479312,35.24151801263405,94 138.9848354654542,35.24120094947566,94 138.9858417290171,35.23915108434278,94 138.9958406252583,35.23736934070462,94
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

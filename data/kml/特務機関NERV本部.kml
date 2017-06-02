@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>特務機関NERV本部.kml</name>
+	<StyleMap id="msn_レイヤー 0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_レイヤー 0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_レイヤー 0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_レイヤー 0">
+		<IconStyle>
+			<color>cc0900fc</color>
+			<scale>1.65455</scale>
+			<Icon>
+				<href>../レイヤー 0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_レイヤー 0">
+		<IconStyle>
+			<color>cc0900fc</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>../レイヤー 0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>特務機関NERV本部</name>
+		<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">正式名称は国際連合直属非公開組織 特務機関NERV。2010年に設立された、使徒殲滅を主要任務とする国連直属の超法規的組織。ドイツ語で神経の意味。本部の所在は日本国の芦ノ湖北湖畔の第3新東京市の地下、箱根大深度地下大規模空間（ジオフロント内）にある。<img src="https://pbs.twimg.com/media/BvpE8AkCUAAu5aJ.jpg"></div>]]></description>
+		<LookAt>
+
+			<longitude>138.9923780035756</longitude>
+			<latitude>35.25567432040489</latitude>
+			<altitude>0</altitude>
+			<heading>0.1700207095683059</heading>
+			<tilt>24.89163102305616</tilt>
+			<range>4819.719714131134</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<gx:TimeSpan>
+			<begin>2015-04-01T12:00:59Z</begin>
+			<end>2016-12-31T23:59:00Z</end>
+		</gx:TimeSpan>
+		<styleUrl>#msn_レイヤー 0</styleUrl>
+		<Point>
+			<extrude>1</extrude>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>138.9929559782802,35.25453497249902,684</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

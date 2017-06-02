@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>第3使徒.kml</name>
+	<Style id="failed560">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅲ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed4700">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅲ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed480">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅲ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed550">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed630</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed500</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed640">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅲ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed580">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed4700</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed570</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed630">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅲ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_エフェク２10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_エフェク２10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_エフェク２100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_エフェク２10">
+		<IconStyle>
+			<scale>4</scale>
+			<Icon>
+				<href>../エフェク２.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed66">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅲ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed460">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed480</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed530</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed530">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅲ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_エフェク２100">
+		<IconStyle>
+			<scale>4.72727</scale>
+			<Icon>
+				<href>../エフェク２.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed610">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅲ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed65">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed5100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed4500</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed540">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed490</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed66</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed490">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅲ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed4400">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅲ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed620">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed4400</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed67</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed500">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅲ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed600">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed560</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed610</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed570">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅲ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed67">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅲ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed590">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed640</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed520</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed520">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅲ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed5100">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅲ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed4500">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅲ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>第3使徒</name>
+		<open>1</open>
+		<Placemark>
+			<name>第3使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「サキエル-sachiel」
+セカンドインパクト以来15年ぶりに人類が遭遇した使徒。<img src="https://stat.ameba.jp/user_images/20130609/19/togochou-no-mirai-koubou/dd/86/j/o0800041212569932864.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>139.0911778430047</longitude>
+				<latitude>35.22958619903651</latitude>
+				<altitude>0</altitude>
+				<heading>-5.768869274086543</heading>
+				<tilt>26.8724691836225</tilt>
+				<range>4729.105507495805</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-05-09T12:30:59Z</begin>
+				<end>2015-05-09T13:30:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed600</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.1015565999743,35.23141294688227,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第3使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「サキエル-sachiel」
+セカンドインパクト以来15年ぶりに人類が遭遇した使徒。<img src="https://stat.ameba.jp/user_images/20130609/19/togochou-no-mirai-koubou/dd/86/j/o0800041212569932864.jpg"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>139.0741295487402</longitude>
+				<latitude>35.24523530534302</latitude>
+				<altitude>0</altitude>
+				<heading>-5.786885132771333</heading>
+				<tilt>35.32383813534715</tilt>
+				<range>14948.03144103837</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-05-09T13:30:59Z</begin>
+				<end>2015-05-09T14:30:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed65</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.087378527983,35.23266691991729,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第3使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「サキエル-sachiel」
+セカンドインパクト以来15年ぶりに人類が遭遇した使徒。<img src="https://stat.ameba.jp/user_images/20130609/19/togochou-no-mirai-koubou/dd/86/j/o0800041212569932864.jpg"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>139.076121967439</longitude>
+				<latitude>35.23976674610312</latitude>
+				<altitude>0</altitude>
+				<heading>-5.786026997719309</heading>
+				<tilt>48.33447569102531</tilt>
+				<range>1960.924485652537</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2015-05-09T14:30:59Z</begin>
+				<end>2015-05-09T15:30:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed540</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0772808677294,35.23875073801721,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第3使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「サキエル-sachiel」
+セカンドインパクト以来15年ぶりに人類が遭遇した使徒。<img src="https://stat.ameba.jp/user_images/20130609/19/togochou-no-mirai-koubou/dd/86/j/o0800041212569932864.jpg"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>139.0705768503992</longitude>
+				<latitude>35.24129097346172</latitude>
+				<altitude>0</altitude>
+				<heading>-5.780410987930424</heading>
+				<tilt>33.42756861989785</tilt>
+				<range>2059.634872110887</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+
+			<gx:TimeSpan>
+				<begin>2015-05-09T15:30:59Z</begin>
+				<end>2015-05-09T16:30:00Z</end>
+			</gx:TimeSpan>
+
+			<styleUrl>#failed550</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0645695047163,35.24421211808465,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第3使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「サキエル-sachiel」
+セカンドインパクト以来15年ぶりに人類が遭遇した使徒。<img src="https://stat.ameba.jp/user_images/20130609/19/togochou-no-mirai-koubou/dd/86/j/o0800041212569932864.jpg"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>139.0504442506177</longitude>
+				<latitude>35.24550208550087</latitude>
+				<altitude>0</altitude>
+				<heading>-5.792581168815548</heading>
+				<tilt>34.26193033935304</tilt>
+				<range>2729.818596657477</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+
+			<gx:TimeSpan>
+				<begin>2015-05-09T16:30:59Z</begin>
+				<end>2015-05-09T17:30:00Z</end>
+			</gx:TimeSpan>
+
+			<styleUrl>#failed580</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.050234574139,35.24719005796347,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第3使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「サキエル-sachiel」
+セカンドインパクト以来15年ぶりに人類が遭遇した使徒。<img src="https://stat.ameba.jp/user_images/20130609/19/togochou-no-mirai-koubou/dd/86/j/o0800041212569932864.jpg"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>139.0505221993858</longitude>
+				<latitude>35.24559322355129</latitude>
+				<altitude>0</altitude>
+				<heading>-5.784057334119806</heading>
+				<tilt>30.15202550190834</tilt>
+				<range>2791.019554029829</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+
+			<gx:TimeSpan>
+				<begin>2015-05-09T17:30:59Z</begin>
+				<end>2015-05-09T18:30:00Z</end>
+			</gx:TimeSpan>
+
+			<styleUrl>#failed590</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0364252098741,35.24960212227428,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第3使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「サキエル-sachiel」
+セカンドインパクト以来15年ぶりに人類が遭遇した使徒。<img src="https://stat.ameba.jp/user_images/20130609/19/togochou-no-mirai-koubou/dd/86/j/o0800041212569932864.jpg"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>139.0277845481297</longitude>
+				<latitude>35.27587748855057</latitude>
+				<altitude>0</altitude>
+				<heading>-8.970038877391179</heading>
+				<tilt>68.48507283631753</tilt>
+				<range>7701.065835629712</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+
+			<gx:TimeSpan>
+				<begin>2015-05-09T18:30:59Z</begin>
+				<end>2015-05-09T19:30:00Z</end>
+			</gx:TimeSpan>
+
+			<styleUrl>#failed620</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0215010066198,35.25409060243236,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第3使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「サキエル-sachiel」
+セカンドインパクト以来15年ぶりに人類が遭遇した使徒。<img src="https://stat.ameba.jp/user_images/20130609/19/togochou-no-mirai-koubou/dd/86/j/o0800041212569932864.jpg"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>139.009404511717</longitude>
+				<latitude>35.2632822645981</latitude>
+				<altitude>0</altitude>
+				<heading>-2.057564412231223</heading>
+				<tilt>35.31200150761985</tilt>
+				<range>3774.684167246968</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+
+			<gx:TimeSpan>
+				<begin>2015-05-09T19:30:59Z</begin>
+				<end>2015-05-09T20:30:00Z</end>
+			</gx:TimeSpan>
+
+			<styleUrl>#failed460</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0089374254196,35.26650630033375,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第3使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「サキエル-sachiel」
+セカンドインパクト以来15年ぶりに人類が遭遇した使徒。<img src="https://stat.ameba.jp/user_images/20130609/19/togochou-no-mirai-koubou/dd/86/j/o0800041212569932864.jpg"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>139.0094045111064</longitude>
+				<latitude>35.2632822671947</latitude>
+				<altitude>0</altitude>
+				<heading>-2.057564413155519</heading>
+				<tilt>35.31107417330354</tilt>
+				<range>3774.6846422683</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+
+			<gx:TimeSpan>
+				<begin>2015-05-09T20:30:59Z</begin>
+				<end>2015-05-18T21:30:00Z</end>
+			</gx:TimeSpan>
+
+			<styleUrl>#msn_エフェク２10</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.9944727188026,35.26040200575262,300</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

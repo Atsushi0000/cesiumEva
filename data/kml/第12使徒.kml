@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>第12使徒.kml</name>
+	<Style id="failed36">
+		<IconStyle>
+			<Icon>
+			<href>../Ⅵ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_Ⅺ 05">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed41">
+		<IconStyle>
+			<scale>4</scale>
+			<Icon>
+				<href>../エフェク２.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed5">
+		<IconStyle>
+			<scale>4</scale>
+			<Icon>
+				<href>../エフェク２.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_Ⅺ 07">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed36</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed14">
+		<IconStyle>
+			<Icon>
+				<href>../Ⅵ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>第12使徒</name>
+		<Placemark>
+			<name>第12使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「タブリス-tabris」
+その正体は渚カヲル本人である。がその魂は第1使徒である「アダム」である。最後はゼーレの望みを受け、ターミナルドグマへ侵入しアダムではなくリリスと悟り、碇シンジに自分の運命とサードインパクトについて語り、初号機の手により扼殺されることを望む。
+<img src="https://i.ytimg.com/vi/HukXqUtfRxQ/hqdefault.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>138.9921699286517</longitude>
+				<latitude>35.25331477435444</latitude>
+				<altitude>0</altitude>
+				<heading>-0.021961981850434</heading>
+				<tilt>49.52396623683556</tilt>
+				<range>1135.439487282722</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2016-12-26T14:00:59Z</begin>
+				<end>2016-12-26T16:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#msn_Ⅺ 07</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.9928702486906,35.25392295522099,150</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第12使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「タブリス-tabris」
+その正体は渚カヲル本人である。がその魂は第1使徒である「アダム」である。最後はゼーレの望みを受け、ターミナルドグマへ侵入しアダムではなくリリスと悟り、碇シンジに自分の運命とサードインパクトについて語り、初号機の手により扼殺されることを望む。
+<img src="https://i.ytimg.com/vi/HukXqUtfRxQ/hqdefault.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>138.9921699243166</longitude>
+				<latitude>35.25331476918514</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02196198737521692</heading>
+				<tilt>49.52448730880502</tilt>
+				<range>1135.439031874865</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2016-12-26T16:00:59Z</begin>
+				<end>2016-12-29T17:00:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#msn_Ⅺ 05</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.9928686679336,35.2538908387867,300</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

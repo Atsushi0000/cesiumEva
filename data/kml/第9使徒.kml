@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>第9使徒.kml</name>
+	<Style id="failed2030">
+		<IconStyle>
+			<Icon>
+				<href>/Applications/MAMP/htdocs/cesium02/data/Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed202">
+		<IconStyle>
+			<Icon>
+				<href>/Applications/MAMP/htdocs/cesium02/data/Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed511">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed203</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed190</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed59</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed361</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed206">
+		<IconStyle>
+			<Icon>
+				<href>/Applications/MAMP/htdocs/cesium02/data/Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed515">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed206</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed195</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed203">
+		<IconStyle>
+			<Icon>
+				<href>/Applications/MAMP/htdocs/cesium02/data/Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed513">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed193</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed194">
+		<IconStyle>
+			<Icon>
+				<href>/Applications/MAMP/htdocs/cesium02/data/Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="failed200">
+		<IconStyle>
+			<scale>4</scale>
+			<Icon>
+				<href>/Applications/MAMP/htdocs/cesium02/data/エフェク２.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed195">
+		<IconStyle>
+			<Icon>
+				<href>/Applications/MAMP/htdocs/cesium02/data/Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed59">
+		<IconStyle>
+			<Icon>
+				<href>/Applications/MAMP/htdocs/cesium02/data/Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed204">
+		<IconStyle>
+			<Icon>
+				<href>/Applications/MAMP/htdocs/cesium02/data/Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed191">
+		<IconStyle>
+			<Icon>
+				<href>/Applications/MAMP/htdocs/cesium02/data/Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed205">
+		<IconStyle>
+			<Icon>
+				<href>/Applications/MAMP/htdocs/cesium02/data/Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed510">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed202</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed194</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed190">
+		<IconStyle>
+			<Icon>
+				<href>/Applications/MAMP/htdocs/cesium02/data/Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed192">
+		<IconStyle>
+			<Icon>
+				<href>/Applications/MAMP/htdocs/cesium02/data/Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed514">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed205</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed191</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed19">
+		<IconStyle>
+			<Icon>
+				<href>/Applications/MAMP/htdocs/cesium02/data/Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="failed512">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed204</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed517">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed2030</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed192</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed361">
+		<IconStyle>
+			<Icon>
+				<href>/Applications/MAMP/htdocs/cesium02/data/Ⅷ .png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="failed193">
+		<IconStyle>
+			<scale>4</scale>
+			<Icon>
+				<href>/Applications/MAMP/htdocs/cesium02/data/エフェク２.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>第9使徒</name>
+		<open>1</open>
+		<Placemark>
+			<name>第9使徒</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「ゼルエル-zeruel」
+最強の使徒。ラミエルが突破に十数時間かかったジオフロント上部の１８の特殊装甲を瞬時に溶解させるほど。弍号機が迎撃に当たるが敗北、その後初号機の覚醒により殲滅、捕食される。これにより初号機は永久機関であるS2機関を手に入れる。<img src="http://www.glory820.com/wp-content/uploads/37646ab417db150e4fa06efe28b74df5-300x225.jpg"></div>]]></description>
+			<LookAt>
+
+				<longitude>139.0547703536533</longitude>
+				<latitude>35.18166619961746</latitude>
+				<altitude>0</altitude>
+				<heading>0.02909019180575742</heading>
+				<tilt>20.1916010041067</tilt>
+				<range>7494.695210338034</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2016-05-13T13:30:59Z</begin>
+				<end>2016-05-13T14:30:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed12</styleUrl>
+			<Point>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0547703536533,35.18166619961747,1306</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第9使徒-2</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「ゼルエル-zeruel」
+最強の使徒。ラミエルが突破に十数時間かかったジオフロント上部の１８の特殊装甲を瞬時に溶解させるほど。弍号機が迎撃に当たるが敗北、その後初号機の覚醒により殲滅、捕食される。これにより初号機は永久機関であるS2機関を手に入れる。<img src="http://www.glory820.com/wp-content/uploads/37646ab417db150e4fa06efe28b74df5-300x225.jpg"></div>]]></description>
+
+			<LookAt>
+				<longitude>139.0601227106215</longitude>
+				<latitude>35.17487862449447</latitude>
+				<altitude>0</altitude>
+				<heading>5.221308836181288</heading>
+				<tilt>3.807296588761886</tilt>
+				<range>9675.814202327419</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2016-05-13T14:30:59Z</begin>
+				<end>2016-05-13T15:30:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed515</styleUrl>
+			<Point>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0269838567892,35.19601827771493,684</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第9使徒-3</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「ゼルエル-zeruel」
+最強の使徒。ラミエルが突破に十数時間かかったジオフロント上部の１８の特殊装甲を瞬時に溶解させるほど。弍号機が迎撃に当たるが敗北、その後初号機の覚醒により殲滅、捕食される。これにより初号機は永久機関であるS2機関を手に入れる。<img src="http://www.glory820.com/wp-content/uploads/37646ab417db150e4fa06efe28b74df5-300x225.jpg"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>139.018548164671</longitude>
+				<latitude>35.20074718271834</latitude>
+				<altitude>0</altitude>
+				<heading>-6.626387561176041</heading>
+				<tilt>0</tilt>
+				<range>7154.272605409938</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2016-05-13T15:30:59Z</begin>
+				<end>2016-05-13T16:30:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed512</styleUrl>
+			<Point>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.0088498162735,35.20712882306572,258</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第9使徒-4</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「ゼルエル-zeruel」
+最強の使徒。ラミエルが突破に十数時間かかったジオフロント上部の１８の特殊装甲を瞬時に溶解させるほど。弍号機が迎撃に当たるが敗北、その後初号機の覚醒により殲滅、捕食される。これにより初号機は永久機関であるS2機関を手に入れる。<img src="http://www.glory820.com/wp-content/uploads/37646ab417db150e4fa06efe28b74df5-300x225.jpg"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>139.0185481505623</longitude>
+				<latitude>35.2007471813118</latitude>
+				<altitude>0</altitude>
+				<heading>-6.626387569308953</heading>
+				<tilt>0</tilt>
+				<range>7154.278757605764</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2016-05-13T16:30:59Z</begin>
+				<end>2016-05-13T17:30:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed514</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.9977165189085,35.22151426844085,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>第9使徒-5</name>
+			<description><![CDATA[<div class="googft-info-window" style="background-color:#0c0a0a; color:#c40000; ">「ゼルエル-zeruel」
+最強の使徒。ラミエルが突破に十数時間かかったジオフロント上部の１８の特殊装甲を瞬時に溶解させるほど。弍号機が迎撃に当たるが敗北、その後初号機の覚醒により殲滅、捕食される。これにより初号機は永久機関であるS2機関を手に入れる。<img src="http://www.glory820.com/wp-content/uploads/37646ab417db150e4fa06efe28b74df5-300x225.jpg"></div>]]></description>
+
+			<LookAt>
+
+				<longitude>139.0007868911695</longitude>
+				<latitude>35.23379626470216</latitude>
+				<altitude>0</altitude>
+				<heading>-8.655618616753337</heading>
+				<tilt>6.323726617205255</tilt>
+				<range>4019.687930694508</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<gx:TimeSpan>
+				<begin>2016-05-13T17:30:59Z</begin>
+				<end>2016-05-13T18:30:00Z</end>
+			</gx:TimeSpan>
+			<styleUrl>#failed510</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>138.9937301806419,35.23968487332296,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
