@@ -133,6 +133,10 @@
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
+				<LabelStyle>
+			<color>ff0400bb</color>
+			<scale>1.4</scale>
+		</LabelStyle>
 		<ListStyle>
 		</ListStyle>
 	</Style>
