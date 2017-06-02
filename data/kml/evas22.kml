@@ -51,7 +51,7 @@
 	<Style id="failed2">
 		<IconStyle>
 			<Icon>
-				<href>/../s2.png</href>
+				<href>../s2.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
