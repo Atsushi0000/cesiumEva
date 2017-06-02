@@ -25,7 +25,7 @@
 	<Style id="failed4">
 		<IconStyle>
 			<Icon>
-				<href>/../s2.png</href>
+				<href>../s2.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -39,7 +39,7 @@
 	<Style id="failed3">
 		<IconStyle>
 			<Icon>
-				<href>/../s2.png</href>
+				<href>../s2.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -51,7 +51,7 @@
 	<Style id="failed2">
 		<IconStyle>
 			<Icon>
-				<href>/../s2.png</href>
+				<href>../s2.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -63,7 +63,7 @@
 	<Style id="failed51">
 		<IconStyle>
 			<Icon>
-				<href>/../s2.png</href>
+				<href>../s2.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -87,7 +87,7 @@
 	<Style id="failed64">
 		<IconStyle>
 			<Icon>
-				<href>/../s2.png</href>
+				<href>../s2.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
@@ -99,7 +99,7 @@
 	<Style id="failed34">
 		<IconStyle>
 			<Icon>
-				<href>/../s2.png</href>
+				<href>../s2.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
